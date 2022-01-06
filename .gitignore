@@ -26,5 +26,12 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-# original
+#add
 .DS_Store
+# シェルコマンド履歴
+/.ash_history
+# Rubyコマンド履歴
+/.irb_history
+# デバッグbinding.pryコマンド履歴
+/.local
+/.local/*
